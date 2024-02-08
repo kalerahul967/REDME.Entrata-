@@ -1,0 +1,3 @@
+Here's an example of a Selenium project in Java using TestNG as the testing framework and Maven as the dependency manager. Below are 3 test cases to explore and validate the functionality of entrata.com:
+
+POM.xml:
